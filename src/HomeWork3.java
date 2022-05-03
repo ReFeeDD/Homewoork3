@@ -2,9 +2,9 @@ import java.util.Arrays;
 
 public class HomeWork3 {
     public static void main(String args[]) {
-        // Array();
-        // Massiv();
-        // x2();
+         Array();
+         Massiv();
+         x2();
         arr1();
         arr2(6,2);
 
